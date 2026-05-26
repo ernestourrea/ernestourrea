@@ -1,16 +1,21 @@
 ```
-👋 Hi, I’m @ernestourrea
-👀 I’m interested in electronics, machine learning, control systems, signal processing, ...
-🌱 I’m currently learning scons
+👋 Hi, I’m Ernesto Urrea
 
-🏫 B.S. in Electronics Engineering @ Tecnológico de Monterrey
-🚗 Firmware Integration Intern @ Tesla
-🚜 Former Electronics and Controls Intern @ John Deere
-🏎️ Embedded Systems Developer @ VantTec and TecRacing Student Groups
+Electronics Engineering student at Tecnológico de Monterrey focused on embedded systems,
+vehicle controls, motor control, and firmware validation.
 
-💻 Languages: C, C++, MATLAB, Python, Java, Assembly, HTML, CSS, VHDL, C#
-🤖 Platforms: STM32, PIC16, PIC18, AVR, Arduino, Nucleo, Teensy, ESP32, C2000
-📏 Tools: KiCad, EasyEDA, NI Multisim, LTspice, Proteus, SolidWorks, Linux, Simulink, Git, GTest
+- 🚗 Former HV System Integration Engineering Intern @ Tesla  
+- 🚜 Former Electronics & Controls Engineering Intern @ John Deere Power Systems  
+- 🏎️ Embedded Systems & Vehicle Controls Developer @ VantTec / TecRacing  
+- 🔬 Embedded Motor Controls Research Assistant @ ITESM  
+
+💻 Technical Skills
+
+Languages: C, C++, Python, MATLAB, SQL, Ladder Logic  
+Embedded & Controls: STM32, TI C2000, ESP32, AVR, PIC16/18, motor control, real-time systems  
+Validation: MIL, SIL, HIL, GTest, unit/integration/regression testing  
+Tools: Simulink, Stateflow, Embedded Coder, ROS2, Foxglove, Linux, Git, KiCad, LTspice  
+Automotive: CAN bus, HV/LV systems, diagnostics, fault handling
 ```
 
 <!---
